@@ -1,4 +1,4 @@
-# Bem vindos ao <img src="C:\Users\SAMSUNG\workspace\Site-bootstrap\img\logo\patuflix.png" style="zoom:25%;" />
+# Bem vindos ao <img src="Patuflix\img\logo\patuflix.png" style="zoom:25%;" />
 
 Site feito para fins de estudo da framework Bootstrap e um pouco de UI/UX. Tenta imitar o site/app da Netflix em alguns aspectos como:
 
@@ -7,7 +7,7 @@ Site feito para fins de estudo da framework Bootstrap e um pouco de UI/UX. Tenta
  - Carousel com filmes passando com informações para o usuário;
  - Carousel preenchendo a header toda.
 
-![](C:\Users\SAMSUNG\workspace\Site-bootstrap\img\tela-patuflix.png)
+![](Patuflix\img\tela-patuflix.png)
 
  Vão ser adicionadas mais coisas como:
 
