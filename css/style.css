@@ -14,11 +14,12 @@ body{
 
 .logo{
     height: 15%;
-    width: 15%;
-    margin: 20px;
+    width: 20%;
+    margin: 0 300px 0 20px;
 }
 .navbar{
-    background: #161616;
+    background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,0.8));
+    z-index: 1;
 }
 .navbar a{
     color: white;
@@ -28,10 +29,16 @@ body{
 
 .carousel{
     margin: 0 -15px 0 -15px;
+    margin-top: -85px;
+    z-index: 0;
 }
 
 .carousel-item{
-    height: 400px;
+    height: 500px;
+}
+
+.filme-img img{
+    margin-top: -250px;
 }
 
 .carousel-caption{
@@ -91,7 +98,7 @@ body{
 }
 
 .bg-alt{
-    padding-top: 50px;
+    padding-top: 20px;
     background-color: #232323;
 }
 
@@ -102,7 +109,6 @@ hr{
 footer{
     padding-bottom: 20px;
     text-align: center;
-    margin-top: 20px;
     background: #161616;
 }
 footer p{
