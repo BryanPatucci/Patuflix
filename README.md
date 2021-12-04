@@ -1,4 +1,4 @@
-# Bem vindos ao ![plot](./img/patuflix.png)
+# Bem vindos ao ![plot](./img/logo/patuflix.png)
 
 Site feito para fins de estudo da framework Bootstrap e um pouco de UI/UX. Tenta imitar o site/app da Netflix em alguns aspectos como:
 
